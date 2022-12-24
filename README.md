@@ -4,8 +4,7 @@
 I'm a computer engineer based in Palestine. Self - motivated student who is eager to learn new technologies. I Have a Good knowledge of many Programming languages, I pay Attention to the Details , have the ability to work under pressure , I would like to work in both felids Software & Hardware 
 <p align="center">
     <a href="https://www.linkedin.com/in/ahmad-a-al-qerem-3b1b65248/"><img src="https://img.shields.io/badge/linkedin-%230177B5?style=flat&logo=linkedin&logoColor=white"/></a>
-  
-   <a href="https://leetcode.com/AHMADA_ALQEREM/"><img src="Images/LeetCode.png"/></a>
+   <a href="https://leetcode.com/AHMADA_ALQEREM/"><img src="Images/LeetCode.png"/  height="20px"></a>
   </p>
 &nbsp;
 ## 👨‍🎓 Education 
