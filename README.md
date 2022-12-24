@@ -7,7 +7,8 @@ I'm a computer engineer based in Palestine. Self - motivated student who is eage
    <a href="https://leetcode.com/AHMADA_ALQEREM/"><img src="Images/LeetCode.png"/  height="20px"></a>
   </p>
 &nbsp;
-## 👨‍🎓 Education 
+
+## &nbsp; 👨‍🎓 Education 
 * 📃 Bachelor - 💻 computer engineer
 * 🏛 An-Najah National University
 &nbsp;
@@ -35,4 +36,3 @@ I'm a computer engineer based in Palestine. Self - motivated student who is eage
 
 ## 🖥 &nbsp;Past work
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CyrisXD&repo=Pwnagetty&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6)](https://github.com/CyrisXD/Pwnagetty) &nbsp; [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CyrisXD&repo=love-lock-card&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6)](https://github.com/CyrisXD/love-lock-card)
