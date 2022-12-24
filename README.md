@@ -1,4 +1,4 @@
-# 👋 &nbsp;Ahmad AL-Qerem
+#&nbsp;Ahmad AL-Qerem
 ![](https://github.com/Ahmad-Qerem/Ahmad-Qerem/blob/main/Images/thumb-1920-985805.png)
 
 I'm a computer engineer based in Palestine. Self - motivated student who is eager to learn new technologies. I Have a Good knowledge of many Programming languages, I pay Attention to the Details , have the ability to work under pressure , I would like to work in both felids Software & Hardware 
